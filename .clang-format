@@ -3,4 +3,5 @@ Language: Cpp
 IndentWidth: 4
 AllowShortFunctionsOnASingleLine: false
 InsertNewlineAtEOF: true
+BreakTemplateDeclarations: Yes
 ...
